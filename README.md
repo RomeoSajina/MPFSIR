@@ -99,8 +99,8 @@ If you use our code, please cite our work
   journal={IEEE Access},
   title={MPFSIR: An Effective Multi-Person Pose Forecasting Model with Social Interaction Recognition},
   year={2023},
-  volume={},
+  volume={11},
   number={},
-  pages={1-1},
+  pages={84822-84833},
   doi={10.1109/ACCESS.2023.3303018}}
 ```
