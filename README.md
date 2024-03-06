@@ -85,7 +85,7 @@ train.py --device cuda --use_dct --dct_n 30 --use_full_augmentation --use_ctx_lo
 ## Evaluation
 We provide a script to evaluate trained MPFSIR models. You can run
 ```
-eval.py --device cpu --dataset 3dpw --dct_n 30 --out_model_name ./models/mpfsir_full.pt
+eval.py --device cpu --use_dct --dataset 3dpw --dct_n 30 --out_model_name mpfsir_full
 ```
 to get these metrics.
 
